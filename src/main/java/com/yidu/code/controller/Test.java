@@ -8,6 +8,6 @@ package com.yidu.code.controller;
  */
 public class Test {
     public void test(){
-
+        System.out.print("HelloWorld！");
     }
 }
